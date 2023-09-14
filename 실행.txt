@@ -1,0 +1,9 @@
+
+npm run serve
+
+=> 
+
+DONE  Compiled successfully in 41ms
+App running at:
+- Local:   http://localhost:8080/
+- Network: http://192.168.0.101:8080/
